@@ -15,7 +15,7 @@
    1. `cd server`
    2. `npm install`
    3. `nodemon start`
-6. Install <b>dependencies</b> for __client__, open up your terminal or Shell
+6. Install <b>dependencies</b> for __client__, open up new terminal or Shell
    1. `cd client`
    2. `yarn install`
    3. `yarn start`
