@@ -17,6 +17,6 @@
    3. `nodemon start`
 6. Install <b>dependencies</b> for __client__, open up your terminal or Shell
    1. `cd client`
-   2. `npx install`
+   2. `yarn install`
    3. `yarn start`
 7. Server will be running at port `3001` and client will be running at port `3000`
